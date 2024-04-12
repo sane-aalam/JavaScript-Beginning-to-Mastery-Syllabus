@@ -192,5 +192,3 @@ What next ?
 - Web Performance
 - Testing
 ```
-
-This formatted text can be copied and pasted directly into your GitHub README file. Let me know if you need any further assistance!
